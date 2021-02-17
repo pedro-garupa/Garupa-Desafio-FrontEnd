@@ -54,3 +54,6 @@ Formulário para postagem com:
 - Mostrar postagens
 - Se não tiver postagens mostrar mensagem avisando
 - Loading enquanto não aparecer as postagens
+
+
+### Caso não consiga utilizar o Firebase, utilize o LocalStorage
