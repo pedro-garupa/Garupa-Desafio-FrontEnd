@@ -3,7 +3,7 @@
 ## Criar um blog com painel admin
 
 ### Para iniciar:
-- Faca um fork desse repositorio.
+- Faça um fork desse repositorio.
 - Git Clone
 - yarn install
 
@@ -19,7 +19,7 @@
 [ ] TextArea <b> não pode ser redimencionada </b>
 pelo usuário.
 
-[ ] Formulário deve ser <b> limpo após enviar.
+[ ] Formulário deve ser <b> limpo após enviar. </b>
 
 [ ] Na página do Blog os posts deverão ser requisitados ao banco de dados
 e utilizar useContext. (https://firebase.google.com/products/realtime-database?gclid=CjwKCAiAmrOBBhA0EiwArn3mfOGXbHcOgOvPIdL1MKOcii_aman4ZJNMbedi7cE9yZWu0HPTsxwD5hoCeCQQAvD_BwE)
@@ -42,6 +42,7 @@ https://www.figma.com/file/EkXrEhsno644EvGgNWuAfd/Desafio---FrontEnd---Garupa?no
 ### Páginas
 
 #### Painel admin - Criador de postagens => Rota “/admin”
+
 Formulário para postagem com:
 - Título
 - Subtítulo
@@ -49,6 +50,7 @@ Formulário para postagem com:
 - Data
 
 #### Página do Blog => Rota “/”
+
 - Mostrar postagens
 - Se não tiver postagens mostrar mensagem avisando
 - Loading enquanto não aparecer as postagens
