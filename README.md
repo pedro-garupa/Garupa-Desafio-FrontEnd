@@ -21,8 +21,8 @@ pelo usuário.
 
 [ ] Formulário deve ser <b> limpo após enviar. </b>
 
-[ ] Na página do Blog os posts deverão ser requisitados ao banco de dados
-e utilizar useContext. (https://firebase.google.com/products/realtime-database?gclid=CjwKCAiAmrOBBhA0EiwArn3mfOGXbHcOgOvPIdL1MKOcii_aman4ZJNMbedi7cE9yZWu0HPTsxwD5hoCeCQQAvD_BwE)
+[ ] Na página do Blog os posts deverão ser requisitados ao <b> banco de dados
+e utilizar useContext </b>. (https://firebase.google.com/products/realtime-database?gclid=CjwKCAiAmrOBBhA0EiwArn3mfOGXbHcOgOvPIdL1MKOcii_aman4ZJNMbedi7cE9yZWu0HPTsxwD5hoCeCQQAvD_BwE)
 
 [ ] Seguir o <b> design proposto </b>.
 
