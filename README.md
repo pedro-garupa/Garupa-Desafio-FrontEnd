@@ -8,21 +8,33 @@
 - yarn install
 
 ### Requisitos:
-[ ] Ter página que mostre todas as postagens.
-[ ] Ter página para criar postagens (painel admin).
-[ ] Site não pode recarregar (single page application).
-[ ] Ter hover effects nos cards do blog.
-[ ] TextArea não pode ser redimencionada
+[ ] Ter página que mostre <b> todas as postagens </b>.
+
+[ ] Ter página para <b> criar postagens  </b> (painel admin).
+
+[ ] Site <b> não pode recarregar  </b>(single page application).
+
+[ ] Ter <b> hover effects  </b> nos cards do blog.
+
+[ ] TextArea <b> não pode ser redimencionada </b>
 pelo usuário.
-[ ] Formulário deve ser limpo após enviar.
+
+[ ] Formulário deve ser <b> limpo após enviar.
+
 [ ] Na página do Blog os posts deverão ser requisitados ao banco de dados
 e utilizar useContext. (https://firebase.google.com/products/realtime-database?gclid=CjwKCAiAmrOBBhA0EiwArn3mfOGXbHcOgOvPIdL1MKOcii_aman4ZJNMbedi7cE9yZWu0HPTsxwD5hoCeCQQAvD_BwE)
-[ ] Seguir o design proposto.
+
+[ ] Seguir o <b> design proposto </b>.
+
 #### Utilizar:
-[ ] ReactJs (useContext)
-[ ] Styled-Components
-[ ] Firebase Realtime DataBase
-[ ] react-router-dom
+
+[ ] <b> ReactJs (useContext) </b>
+
+[ ] <b> Styled-Components </b>
+
+[ ] <b> Firebase Realtime DataBase </b>
+
+[ ] <b> react-router-dom </b>
 
 ### UI
 https://www.figma.com/file/EkXrEhsno644EvGgNWuAfd/Desafio---FrontEnd---Garupa?node-id=0%3A1
